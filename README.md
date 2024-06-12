@@ -60,6 +60,7 @@ curl http://localhost:8080/product/{id}
 ```
 
 ### Fonte de estudo: [Go Lab Tutoriais](https://www.youtube.com/watch?v=3p4mpId_ZU8)
+### Git do Projeto : [LINK](https://github.com/mariarobertap/go-api)
 
 ```
 .
